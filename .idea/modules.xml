@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ATMForServlet/ATMForServlet.iml" filepath="$PROJECT_DIR$/../ATMForServlet/ATMForServlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EL/EL.iml" filepath="$PROJECT_DIR$/../EL/EL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J2EE.iml" filepath="$PROJECT_DIR$/J2EE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JSPTag/JSPTag.iml" filepath="$PROJECT_DIR$/../JSPTag/JSPTag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ServletMechanism/ServletMechanism.iml" filepath="$PROJECT_DIR$/../ServletMechanism/ServletMechanism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TestJsp/TestJsp.iml" filepath="$PROJECT_DIR$/../TestJsp/TestJsp.iml" />
+    </modules>
+  </component>
+</project>

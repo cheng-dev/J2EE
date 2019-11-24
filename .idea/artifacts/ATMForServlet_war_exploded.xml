@@ -8,7 +8,7 @@
           <element id="module-output" name="ATMForServlet" />
         </element>
         <element id="directory" name="lib">
-          <element id="file-copy" path="$PROJECT_DIR$/../ATMForServlet/web/WEB-INF/libs/mysql-connector-java-8.0.18.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/ATMForServlet/web/WEB-INF/libs/mysql-connector-java-8.0.18.jar" />
         </element>
       </element>
     </root>

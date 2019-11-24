@@ -6,11 +6,29 @@
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="J2EE" />
+          <element id="module-output" name="EL" />
+          <element id="module-output" name="ATMForServlet" />
+          <element id="module-output" name="JSPTag" />
+          <element id="module-output" name="ServletMechanism" />
+          <element id="module-output" name="TestJsp" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="module" name="JUnit4" module-name="J2EE" />
         </element>
       </element>
+      <element id="javaee-facet-resources" facet="TestJsp/web/Web" />
+      <element id="javaee-facet-resources" facet="ServletMechanism/web/Web" />
+      <element id="javaee-facet-resources" facet="JSPTag/web/Web" />
+      <element id="javaee-facet-resources" facet="EL/web/Web" />
+      <element id="javaee-facet-resources" facet="ATMForServlet/web/Web" />
+      <element id="artifact" artifact-name="ATMForServlet:war exploded" />
+      <element id="artifact" artifact-name="EL:war exploded" />
+      <element id="artifact" artifact-name="JSPTag:war exploded" />
+      <element id="artifact" artifact-name="JSPTag:war exploded2" />
+      <element id="artifact" artifact-name="JSPTag:war exploded3" />
+      <element id="artifact" artifact-name="JSPTag:war exploded4" />
+      <element id="artifact" artifact-name="ServletMechanism:war exploded" />
+      <element id="artifact" artifact-name="TestJsp:war exploded" />
     </root>
   </artifact>
 </component>
